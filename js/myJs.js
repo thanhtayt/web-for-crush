@@ -3,14 +3,13 @@ const textConfig = {
   text2: "Nhân ngày hôm nay tớ có vài điều muốn hỏi cậu",
   text3: "Tớ có thể yêu cậu được không?",
   text4: "Đó chính là câu hỏi tớ muốn hỏi cậu đó 🥰",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
+  text5: "Rất tiếc là không nhé",
+  text6: "Yêu ai là quyền của cậu mà",
+  text7: "Vậy cậu có thể yêu tớ được không ?",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text9: "",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Thật sự cảm ơn cậu vì trong 8 tỉ người cậu đã chọn tớ ❤",
   text12: "Okii lunn <3",
 };
 
@@ -138,7 +137,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://m.me/hung319bp";
           },
         });
       }
