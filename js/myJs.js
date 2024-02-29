@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Được thôi ❤",
   text11:
     "Thật sự cảm ơn cậu vì trong 8 tỉ người cậu đã chọn tớ ❤",
-  text12: "Okii lunn <3",
+  text12: "Tớ cũng rất vui vì điều đó",
 };
 
 $(document).ready(function () {
